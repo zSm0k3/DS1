@@ -1,0 +1,17 @@
+C:\Users\lenovo\Desktop\calculadoraCondicional\calculadoraCondicional\bin\Debug\net8.0-windows\calculadoraCondicional.exe
+C:\Users\lenovo\Desktop\calculadoraCondicional\calculadoraCondicional\bin\Debug\net8.0-windows\calculadoraCondicional.deps.json
+C:\Users\lenovo\Desktop\calculadoraCondicional\calculadoraCondicional\bin\Debug\net8.0-windows\calculadoraCondicional.runtimeconfig.json
+C:\Users\lenovo\Desktop\calculadoraCondicional\calculadoraCondicional\bin\Debug\net8.0-windows\calculadoraCondicional.dll
+C:\Users\lenovo\Desktop\calculadoraCondicional\calculadoraCondicional\bin\Debug\net8.0-windows\calculadoraCondicional.pdb
+C:\Users\lenovo\Desktop\calculadoraCondicional\calculadoraCondicional\obj\Debug\net8.0-windows\calculadoraCondicional.Form1.resources
+C:\Users\lenovo\Desktop\calculadoraCondicional\calculadoraCondicional\obj\Debug\net8.0-windows\calculadoraCondicional.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\calculadoraCondicional\calculadoraCondicional\obj\Debug\net8.0-windows\calculadoraCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\calculadoraCondicional\calculadoraCondicional\obj\Debug\net8.0-windows\calculadoraCondicional.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\calculadoraCondicional\calculadoraCondicional\obj\Debug\net8.0-windows\calculadoraCondicional.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\calculadoraCondicional\calculadoraCondicional\obj\Debug\net8.0-windows\calculadoraCondicional.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\calculadoraCondicional\calculadoraCondicional\obj\Debug\net8.0-windows\calculadoraCondicional.dll
+C:\Users\lenovo\Desktop\calculadoraCondicional\calculadoraCondicional\obj\Debug\net8.0-windows\refint\calculadoraCondicional.dll
+C:\Users\lenovo\Desktop\calculadoraCondicional\calculadoraCondicional\obj\Debug\net8.0-windows\calculadoraCondicional.pdb
+C:\Users\lenovo\Desktop\calculadoraCondicional\calculadoraCondicional\obj\Debug\net8.0-windows\calculadoraCondicional.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\calculadoraCondicional\calculadoraCondicional\obj\Debug\net8.0-windows\ref\calculadoraCondicional.dll
+C:\Users\lenovo\Desktop\calculadoraCondicional\calculadoraCondicional\obj\Debug\net8.0-windows\calculadoraCondicional.Form2.resources
