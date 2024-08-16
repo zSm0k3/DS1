@@ -1,0 +1,17 @@
+C:\Users\lenovo\Desktop\CalcVendas\CalcVendas\bin\Debug\net8.0-windows\CalcVendas.exe
+C:\Users\lenovo\Desktop\CalcVendas\CalcVendas\bin\Debug\net8.0-windows\CalcVendas.deps.json
+C:\Users\lenovo\Desktop\CalcVendas\CalcVendas\bin\Debug\net8.0-windows\CalcVendas.runtimeconfig.json
+C:\Users\lenovo\Desktop\CalcVendas\CalcVendas\bin\Debug\net8.0-windows\CalcVendas.dll
+C:\Users\lenovo\Desktop\CalcVendas\CalcVendas\bin\Debug\net8.0-windows\CalcVendas.pdb
+C:\Users\lenovo\Desktop\CalcVendas\CalcVendas\obj\Debug\net8.0-windows\CalcVendas.Form1.resources
+C:\Users\lenovo\Desktop\CalcVendas\CalcVendas\obj\Debug\net8.0-windows\CalcVendas.Properties.Resources.resources
+C:\Users\lenovo\Desktop\CalcVendas\CalcVendas\obj\Debug\net8.0-windows\CalcVendas.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\CalcVendas\CalcVendas\obj\Debug\net8.0-windows\CalcVendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\CalcVendas\CalcVendas\obj\Debug\net8.0-windows\CalcVendas.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\CalcVendas\CalcVendas\obj\Debug\net8.0-windows\CalcVendas.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\CalcVendas\CalcVendas\obj\Debug\net8.0-windows\CalcVendas.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\CalcVendas\CalcVendas\obj\Debug\net8.0-windows\CalcVendas.dll
+C:\Users\lenovo\Desktop\CalcVendas\CalcVendas\obj\Debug\net8.0-windows\refint\CalcVendas.dll
+C:\Users\lenovo\Desktop\CalcVendas\CalcVendas\obj\Debug\net8.0-windows\CalcVendas.pdb
+C:\Users\lenovo\Desktop\CalcVendas\CalcVendas\obj\Debug\net8.0-windows\CalcVendas.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\CalcVendas\CalcVendas\obj\Debug\net8.0-windows\ref\CalcVendas.dll
