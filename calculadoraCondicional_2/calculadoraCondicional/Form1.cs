@@ -44,5 +44,14 @@ namespace calculadoraCondicional
         {
             cboOperacao.SelectedIndex = 0;
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form2 abrirForm2 = new Form2();
+
+            this.Hide(); // esconde o formulário atual
+
+            abrirForm2.Show();
+        }
     }
 }

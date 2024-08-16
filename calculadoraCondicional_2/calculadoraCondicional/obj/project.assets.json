@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\calculadoraCondicional\\calculadoraCondicional\\calculadoraCondicional.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\calculadoraCondicional_2\\calculadoraCondicional\\calculadoraCondicional.csproj",
       "projectName": "calculadoraCondicional",
-      "projectPath": "C:\\Users\\lenovo\\Desktop\\calculadoraCondicional\\calculadoraCondicional\\calculadoraCondicional.csproj",
+      "projectPath": "C:\\Users\\lenovo\\Desktop\\calculadoraCondicional_2\\calculadoraCondicional\\calculadoraCondicional.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo\\Desktop\\calculadoraCondicional\\calculadoraCondicional\\obj\\",
+      "outputPath": "C:\\Users\\lenovo\\Desktop\\calculadoraCondicional_2\\calculadoraCondicional\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

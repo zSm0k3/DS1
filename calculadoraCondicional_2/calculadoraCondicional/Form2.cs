@@ -65,5 +65,14 @@ namespace calculadoraCondicional
                 textBoxNovoSalario.Text = "";
             }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form1 abrirForm1 = new Form1();
+
+            this.Hide(); // esconde o formulário atual
+
+            abrirForm1.Show();
+        }
     }
 }
