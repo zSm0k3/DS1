@@ -57,6 +57,7 @@
             splitContainer1.Dock = DockStyle.Fill;
             splitContainer1.IsSplitterFixed = true;
             splitContainer1.Location = new Point(0, 0);
+            splitContainer1.Margin = new Padding(2);
             splitContainer1.Name = "splitContainer1";
             // 
             // splitContainer1.Panel1
@@ -73,15 +74,17 @@
             splitContainer1.Panel2.Controls.Add(lblPreco);
             splitContainer1.Panel2.Controls.Add(lblPagto);
             splitContainer1.Panel2.Controls.Add(lblQtde);
-            splitContainer1.Size = new Size(801, 450);
-            splitContainer1.SplitterDistance = 158;
+            splitContainer1.Size = new Size(561, 270);
+            splitContainer1.SplitterDistance = 110;
+            splitContainer1.SplitterWidth = 3;
             splitContainer1.TabIndex = 0;
             // 
             // picturePagto
             // 
-            picturePagto.Location = new Point(19, 184);
+            picturePagto.Location = new Point(13, 110);
+            picturePagto.Margin = new Padding(2);
             picturePagto.Name = "picturePagto";
-            picturePagto.Size = new Size(115, 104);
+            picturePagto.Size = new Size(80, 62);
             picturePagto.SizeMode = PictureBoxSizeMode.Zoom;
             picturePagto.TabIndex = 4;
             picturePagto.TabStop = false;
@@ -89,9 +92,10 @@
             // pictureCarrinho
             // 
             pictureCarrinho.Image = Properties.Resources.carrinho;
-            pictureCarrinho.Location = new Point(19, 21);
+            pictureCarrinho.Location = new Point(9, 13);
+            pictureCarrinho.Margin = new Padding(2);
             pictureCarrinho.Name = "pictureCarrinho";
-            pictureCarrinho.Size = new Size(115, 104);
+            pictureCarrinho.Size = new Size(80, 62);
             pictureCarrinho.SizeMode = PictureBoxSizeMode.Zoom;
             pictureCarrinho.TabIndex = 3;
             pictureCarrinho.TabStop = false;
@@ -99,17 +103,19 @@
             // txtPreco
             // 
             txtPreco.Font = new Font("Segoe UI", 12F);
-            txtPreco.Location = new Point(300, 141);
+            txtPreco.Location = new Point(210, 85);
+            txtPreco.Margin = new Padding(2);
             txtPreco.Name = "txtPreco";
-            txtPreco.Size = new Size(182, 39);
+            txtPreco.Size = new Size(129, 29);
             txtPreco.TabIndex = 5;
             // 
             // txtQtde
             // 
             txtQtde.Font = new Font("Segoe UI", 12F);
-            txtQtde.Location = new Point(300, 78);
+            txtQtde.Location = new Point(210, 47);
+            txtQtde.Margin = new Padding(2);
             txtQtde.Name = "txtQtde";
-            txtQtde.Size = new Size(182, 39);
+            txtQtde.Size = new Size(129, 29);
             txtQtde.TabIndex = 4;
             // 
             // cboPagto
@@ -117,9 +123,10 @@
             cboPagto.Font = new Font("Segoe UI", 12F);
             cboPagto.FormattingEnabled = true;
             cboPagto.Items.AddRange(new object[] { "Selecione", "Crédito(2x)", "Débito", "Dinheiro", "Pix" });
-            cboPagto.Location = new Point(300, 199);
+            cboPagto.Location = new Point(210, 119);
+            cboPagto.Margin = new Padding(2);
             cboPagto.Name = "cboPagto";
-            cboPagto.Size = new Size(182, 40);
+            cboPagto.Size = new Size(129, 29);
             cboPagto.TabIndex = 3;
             cboPagto.SelectedIndexChanged += cboPagto_SelectedIndexChanged;
             // 
@@ -127,9 +134,10 @@
             // 
             lblPreco.AutoSize = true;
             lblPreco.Font = new Font("Segoe UI", 12F);
-            lblPreco.Location = new Point(182, 144);
+            lblPreco.Location = new Point(127, 86);
+            lblPreco.Margin = new Padding(2, 0, 2, 0);
             lblPreco.Name = "lblPreco";
-            lblPreco.Size = new Size(78, 32);
+            lblPreco.Size = new Size(52, 21);
             lblPreco.TabIndex = 2;
             lblPreco.Text = "Preço:";
             // 
@@ -137,9 +145,10 @@
             // 
             lblPagto.AutoSize = true;
             lblPagto.Font = new Font("Segoe UI", 12F);
-            lblPagto.Location = new Point(127, 202);
+            lblPagto.Location = new Point(89, 121);
+            lblPagto.Margin = new Padding(2, 0, 2, 0);
             lblPagto.Name = "lblPagto";
-            lblPagto.Size = new Size(133, 32);
+            lblPagto.Size = new Size(86, 21);
             lblPagto.TabIndex = 1;
             lblPagto.Text = "Tipo Pagto:";
             // 
@@ -147,9 +156,10 @@
             // 
             lblQtde.AutoSize = true;
             lblQtde.Font = new Font("Segoe UI", 12F);
-            lblQtde.Location = new Point(127, 81);
+            lblQtde.Location = new Point(89, 49);
+            lblQtde.Margin = new Padding(2, 0, 2, 0);
             lblQtde.Name = "lblQtde";
-            lblQtde.Size = new Size(144, 32);
+            lblQtde.Size = new Size(94, 21);
             lblQtde.TabIndex = 0;
             lblQtde.Text = "Quantidade:";
             // 
@@ -159,19 +169,21 @@
             panel1.Controls.Add(btnEditar);
             panel1.Controls.Add(lblTotal);
             panel1.Controls.Add(btnFechar);
-            panel1.Location = new Point(-7, 384);
+            panel1.Location = new Point(-5, 230);
+            panel1.Margin = new Padding(2);
             panel1.Name = "panel1";
-            panel1.Size = new Size(808, 67);
+            panel1.Size = new Size(566, 40);
             panel1.TabIndex = 1;
             // 
             // btnEditar
             // 
             btnEditar.BackColor = Color.White;
             btnEditar.BackgroundImage = Properties.Resources.editar;
-            btnEditar.FlatStyle = FlatStyle.Flat;
-            btnEditar.Location = new Point(94, 18);
+            btnEditar.BackgroundImageLayout = ImageLayout.Zoom;
+            btnEditar.Location = new Point(61, 10);
+            btnEditar.Margin = new Padding(2);
             btnEditar.Name = "btnEditar";
-            btnEditar.Size = new Size(32, 32);
+            btnEditar.Size = new Size(25, 23);
             btnEditar.TabIndex = 7;
             btnEditar.UseVisualStyleBackColor = false;
             btnEditar.Click += btnEditar_Click;
@@ -181,31 +193,34 @@
             lblTotal.AutoSize = true;
             lblTotal.Font = new Font("Segoe UI", 12F);
             lblTotal.ForeColor = Color.White;
-            lblTotal.Location = new Point(430, 18);
+            lblTotal.Location = new Point(295, 11);
+            lblTotal.Margin = new Padding(2, 0, 2, 0);
             lblTotal.Name = "lblTotal";
-            lblTotal.Size = new Size(0, 32);
+            lblTotal.Size = new Size(0, 21);
             lblTotal.TabIndex = 5;
             // 
             // btnFechar
             // 
             btnFechar.BackColor = Color.Brown;
             btnFechar.BackgroundImage = Properties.Resources.fechar;
-            btnFechar.FlatStyle = FlatStyle.Flat;
-            btnFechar.Location = new Point(37, 18);
+            btnFechar.BackgroundImageLayout = ImageLayout.Zoom;
+            btnFechar.Location = new Point(26, 10);
+            btnFechar.Margin = new Padding(2);
             btnFechar.Name = "btnFechar";
-            btnFechar.Size = new Size(31, 32);
+            btnFechar.Size = new Size(25, 23);
             btnFechar.TabIndex = 6;
             btnFechar.UseVisualStyleBackColor = false;
             btnFechar.Click += btnFechar_Click;
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(10F, 25F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(801, 450);
+            ClientSize = new Size(561, 270);
             Controls.Add(panel1);
             Controls.Add(splitContainer1);
             FormBorderStyle = FormBorderStyle.None;
+            Margin = new Padding(2);
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
             Text = ":. Vendas .:";
