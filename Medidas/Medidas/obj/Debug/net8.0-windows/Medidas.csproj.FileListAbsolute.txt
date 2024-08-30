@@ -1,0 +1,17 @@
+C:\Users\lenovo\Desktop\Medidas\Medidas\bin\Debug\net8.0-windows\Medidas.exe
+C:\Users\lenovo\Desktop\Medidas\Medidas\bin\Debug\net8.0-windows\Medidas.deps.json
+C:\Users\lenovo\Desktop\Medidas\Medidas\bin\Debug\net8.0-windows\Medidas.runtimeconfig.json
+C:\Users\lenovo\Desktop\Medidas\Medidas\bin\Debug\net8.0-windows\Medidas.dll
+C:\Users\lenovo\Desktop\Medidas\Medidas\bin\Debug\net8.0-windows\Medidas.pdb
+C:\Users\lenovo\Desktop\Medidas\Medidas\obj\Debug\net8.0-windows\Medidas.Form1.resources
+C:\Users\lenovo\Desktop\Medidas\Medidas\obj\Debug\net8.0-windows\Medidas.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Medidas\Medidas\obj\Debug\net8.0-windows\Medidas.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Medidas\Medidas\obj\Debug\net8.0-windows\Medidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Medidas\Medidas\obj\Debug\net8.0-windows\Medidas.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Medidas\Medidas\obj\Debug\net8.0-windows\Medidas.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Medidas\Medidas\obj\Debug\net8.0-windows\Medidas.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Medidas\Medidas\obj\Debug\net8.0-windows\Medidas.dll
+C:\Users\lenovo\Desktop\Medidas\Medidas\obj\Debug\net8.0-windows\refint\Medidas.dll
+C:\Users\lenovo\Desktop\Medidas\Medidas\obj\Debug\net8.0-windows\Medidas.pdb
+C:\Users\lenovo\Desktop\Medidas\Medidas\obj\Debug\net8.0-windows\Medidas.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Medidas\Medidas\obj\Debug\net8.0-windows\ref\Medidas.dll
