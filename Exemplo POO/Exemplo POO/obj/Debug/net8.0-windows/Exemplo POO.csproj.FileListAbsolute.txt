@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\Exemplo POO\Exemplo POO\bin\Debug\net8.0-windows\Exemplo POO.exe
+C:\Users\lenovo\Desktop\Exemplo POO\Exemplo POO\bin\Debug\net8.0-windows\Exemplo POO.deps.json
+C:\Users\lenovo\Desktop\Exemplo POO\Exemplo POO\bin\Debug\net8.0-windows\Exemplo POO.runtimeconfig.json
+C:\Users\lenovo\Desktop\Exemplo POO\Exemplo POO\bin\Debug\net8.0-windows\Exemplo POO.dll
+C:\Users\lenovo\Desktop\Exemplo POO\Exemplo POO\bin\Debug\net8.0-windows\Exemplo POO.pdb
+C:\Users\lenovo\Desktop\Exemplo POO\Exemplo POO\obj\Debug\net8.0-windows\Exemplo_POO.Form1.resources
+C:\Users\lenovo\Desktop\Exemplo POO\Exemplo POO\obj\Debug\net8.0-windows\Exemplo POO.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Exemplo POO\Exemplo POO\obj\Debug\net8.0-windows\Exemplo POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Exemplo POO\Exemplo POO\obj\Debug\net8.0-windows\Exemplo POO.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Exemplo POO\Exemplo POO\obj\Debug\net8.0-windows\Exemplo POO.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Exemplo POO\Exemplo POO\obj\Debug\net8.0-windows\Exemplo POO.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Exemplo POO\Exemplo POO\obj\Debug\net8.0-windows\Exemplo POO.dll
+C:\Users\lenovo\Desktop\Exemplo POO\Exemplo POO\obj\Debug\net8.0-windows\refint\Exemplo POO.dll
+C:\Users\lenovo\Desktop\Exemplo POO\Exemplo POO\obj\Debug\net8.0-windows\Exemplo POO.pdb
+C:\Users\lenovo\Desktop\Exemplo POO\Exemplo POO\obj\Debug\net8.0-windows\Exemplo POO.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Exemplo POO\Exemplo POO\obj\Debug\net8.0-windows\ref\Exemplo POO.dll
